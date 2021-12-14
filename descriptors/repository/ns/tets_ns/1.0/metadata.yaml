@@ -1,0 +1,9 @@
+checksum: 2c7586ff64767cc99622696ba6baa5d5
+description: NS consisting of a KNF test_knf connected to mgmt network
+id: tets_ns
+name: test_ns
+path: /ns/tets_ns/1.0/tets_ns-1.0.tar.gz
+vendor: null
+version: '1.0'
+vnfd-id-ref:
+- test_knf

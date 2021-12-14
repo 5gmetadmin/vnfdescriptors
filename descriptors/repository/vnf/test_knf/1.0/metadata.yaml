@@ -1,0 +1,9 @@
+checksum: 3bafdcd6d9a693ed65393a37657ee7dd
+description: KNF with KDU using a helm-chart for Nginx
+id: test_knf
+images:
+- nginx
+name: null
+path: /vnf/test_knf/1.0/test_knf-1.0.tar.gz
+vendor: null
+version: '1.0'
