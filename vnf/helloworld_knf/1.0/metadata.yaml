@@ -1,4 +1,4 @@
-checksum: 57457a93802475c6046c3262e52aa51c
+checksum: 9a4fa1ccedd73f2d536bdf26a3e73eea
 description: KNF with KDU using a helm-chart for helloworld example (nginx server)
 id: helloworld_knf
 images:
