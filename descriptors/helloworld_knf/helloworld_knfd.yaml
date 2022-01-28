@@ -1,0 +1,18 @@
+vnfd:
+    description: KNF with KDU using a helm-chart for helloworld example (nginx server)
+    df:
+    -   id: default-df
+    ext-cpd:
+    -   id: mgmt-ext
+        k8s-cluster-net: mgmtnet
+    id: helloworld_knf
+    k8s-cluster:
+        nets:
+        -   id: mgmtnet
+    kdu:
+    -   helm-chart: 5gmeta/helloworld-chart
+        name: helloworld
+    mgmt-cp: mgmt-ext
+    product-name: helloworld_knf
+    provider: Vicomtech
+    version: '1.0'
