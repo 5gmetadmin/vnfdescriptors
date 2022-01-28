@@ -1,4 +1,4 @@
-checksum: f56ec4292fda63b7f522f06c7698d984
+checksum: 8f1fef73ff47e63b45b81af55db89176
 description: NS consisting of a KNF helloworld_knf connected to mgmt network
 id: helloworld_ns
 name: helloworld_ns
