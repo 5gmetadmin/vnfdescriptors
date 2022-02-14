@@ -24,6 +24,5 @@ If you had already added this repo earlier, you can run `osm repo-list` to check
 To upload a new descriptor follow the next steps:
 - Clone the repository
 - Add the source code of the descriptor in [descriptors](https://github.com/5gmetadmin/vnfdescriptors/tree/main/descriptors) folder
-- "osm package-build descriptors/<PACKAGE_NAME>"
 - "osm repo-index --origin descriptors/ --destination repository/"
 - Push the changes to the repository
