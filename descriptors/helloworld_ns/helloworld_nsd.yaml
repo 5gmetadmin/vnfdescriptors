@@ -11,13 +11,13 @@ nsd:
                     -   constituent-base-element-id: helloworld
                         constituent-cpd-id: mgmt-ext
                     virtual-link-profile-id: mgmtnet
-                vnfd-id: helloworld_knf
+                vnfd-id: helloworld_knfd
         id: helloworld_ns
-        name: helloworld_ns
+        name: helloworld
         version: '1.0'
         virtual-link-desc:
         -   id: mgmtnet
             mgmt-network: true
             vim-network-name: mgmt
         vnfd-id:
-        - helloworld_knf
+        - helloworld_knfd

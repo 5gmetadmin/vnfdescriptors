@@ -5,7 +5,7 @@ vnfd:
     ext-cpd:
     -   id: mgmt-ext
         k8s-cluster-net: mgmtnet
-    id: helloworld_knf
+    id: helloworld_knfd
     k8s-cluster:
         nets:
         -   id: mgmtnet
@@ -13,6 +13,7 @@ vnfd:
     -   helm-chart: 5gmeta/helloworld-chart
         name: helloworld
     mgmt-cp: mgmt-ext
-    product-name: helloworld_knf
+    product-name: helloworld_knfd
+    product-info-name: helloworld_knfd
     provider: Vicomtech
     version: '1.0'
