@@ -12,12 +12,12 @@ If you had already added this repo earlier, you can run `osm repo-list` to check
 ## Usefull comands:
     
     osm nfpkg-repo-list (list NF packages from OSM repositories)
-    osm nfpkg-repo-show --repo 5gmeta-osm helloworld_knf (shows a specific NF package in a repo)
-    osm nfpkg-create --repo 5gmeta-osm helloworld_knf (onboards a package from a repo into OSM)
+    osm nfpkg-repo-show --repo 5gmeta-osm cits (shows a specific NF package in a repo)
+    osm nfpkg-create --repo 5gmeta-osm cits (onboards a package from a repo into OSM)
     
     osm nspkg-repo-list (list NS packages from OSM repositories)
-    osm nspkg-repo-show --repo 5gmeta-osm helloworld_ns (shows a specific NS package in a repo)
-    osm nspkg-create --repo 5gmeta-osm helloworld_ns (onboards a package from a repo into OSM)
+    osm nspkg-repo-show --repo 5gmeta-osm cits (shows a specific NS package in a repo)
+    osm nspkg-create --repo 5gmeta-osm cits (onboards a package from a repo into OSM)
 
 ## Adding descriptors to the repository
     
