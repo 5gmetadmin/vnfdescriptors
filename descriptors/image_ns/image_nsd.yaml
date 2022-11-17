@@ -21,7 +21,7 @@ nsd:
     vnfd-id:
     - image_knfd
     df:
-    - id: image-df
+    - id: default-df
       vnf-profile:
       - id: "1"
         vnfd-id: image_knfd

@@ -1,3 +1,3 @@
 f54237baa55915aba4f3da62c2abcaa6	cits_knf/README.md
-9642179b8299619b86240138a7b352b3	cits_knf/cits_knfd.yaml
+78f089679365110a4717725eef1be7cb	cits_knf/cits_knfd.yaml
 3a4799d01502c86f56b0412dc33cf647	cits_knf/Scripts/cloud_init/cloud-config.txt

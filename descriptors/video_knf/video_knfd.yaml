@@ -25,7 +25,7 @@ vnfd:
   df:
   - id: default-df
   kdu:
-  - helm-chart: 5gmeta/videoanonymizator-chart
+  - helm-chart: 5gmeta-helm/videoanonymizator-chart
     name: video
   k8s-cluster:
     nets:

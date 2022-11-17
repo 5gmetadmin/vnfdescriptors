@@ -23,9 +23,9 @@ vnfd:
   version: '1.0'
   mgmt-cp: knf-cp0-ext
   df:
-  - id: image-df
+  - id: default-df
   kdu:
-  - helm-chart: 5gmeta/imageanonymizator-chart
+  - helm-chart: 5gmeta-helm/imageanonymizator-chart
     name: image
   k8s-cluster:
     nets:

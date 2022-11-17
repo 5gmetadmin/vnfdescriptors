@@ -25,8 +25,7 @@ vnfd:
   df:
   - id: default-df
   kdu:
-  - helm-chart: 5gmeta/helloworld-chart
-#  - helm-chart: 5gmeta/citsanonymizator-chart
+  - helm-chart: 5gmeta-helm/citsanonymizator-chart
     name: cits
   k8s-cluster:
     nets:
