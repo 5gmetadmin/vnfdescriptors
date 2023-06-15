@@ -9,7 +9,7 @@ vnfd:
   df:
     - id: default-df
   kdu:
-    - helm-chart: 5gmeta-helm/citsanonymizator-chart
+    - helm-chart: 5gmeta-helm/llccam
       name: llccam
   k8s-cluster:
     nets:
