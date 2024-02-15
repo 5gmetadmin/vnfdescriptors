@@ -5,7 +5,7 @@ OSM's [documentation](https://osm.etsi.org/docs/user-guide/03-installing-osm.htm
 
 Once OSM has been set up correctly, add the repo as follows:
 
-    osm repo-add --type osm --description "5GMETA OSM KNF and NS repository" 5gmeta-osm https://raw.githubusercontent.com/5gmetadmin/vnfdescriptors/main/descriptors/repository
+    osm repo-add --type osm --description "5GMETA OSM KNF and NS repository" 5gmeta-osm https://raw.githubusercontent.com/5gmeta/vnfdescriptors/main/descriptors/repository
 
 If you had already added this repo earlier, you can run `osm repo-list` to check the existing repositories.
 
@@ -23,7 +23,7 @@ If you had already added this repo earlier, you can run `osm repo-list` to check
     
 To upload a new descriptor follow the next steps:
 - Clone the repository
-- Add the source code of the descriptor in [descriptors](https://github.com/5gmetadmin/vnfdescriptors/tree/main/descriptors) folder
+- Add the source code of the descriptor in [descriptors](https://github.com/5gmeta/vnfdescriptors/tree/main/descriptors) folder
 - "osm repo-index --origin descriptors/ --destination repository/"
 - Push the changes to the repository
 
