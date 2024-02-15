@@ -26,3 +26,19 @@ To upload a new descriptor follow the next steps:
 - Add the source code of the descriptor in [descriptors](https://github.com/5gmetadmin/vnfdescriptors/tree/main/descriptors) folder
 - "osm repo-index --origin descriptors/ --destination repository/"
 - Push the changes to the repository
+
+## Authors
+- Mikel Serón Esnal ([mseron@vicomtech.org](mailto:mseron@vicomtech.org), [GitHub](https://github.com/mikelseron))
+- Felipe Mogollón ([fmogollon@vicomtech.org](mailto:fmogollon@vicomtech.org))
+
+## License
+
+Copyright : Copyright 2022 VICOMTECH
+
+License : EUPL 1.2 ([https://eupl.eu/1.2/en/](https://eupl.eu/1.2/en/))
+
+The European Union Public Licence (EUPL) is a copyleft free/open source software license created on the initiative of and approved by the European Commission in 23 official languages of the European Union.
+
+Licensed under the EUPL License, Version 1.2 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [https://eupl.eu/1.2/en/](https://eupl.eu/1.2/en/)
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
