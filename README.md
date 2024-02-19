@@ -1,3 +1,11 @@
+# Introduction
+
+This repo includes the VNF descriptors required by OSM:
+  - to instantiate data pipelines in a specific MEC triggered by a request from a data consumer
+
+![Sequence Diagram of exchanged Messages](miscelania/seqdiag.png)
+
+
 ## Usage
 
 [Open Source MANO](https://osm.etsi.org/docs/user-guide/) must be installed to deploy the descriptors.  Please refer to
