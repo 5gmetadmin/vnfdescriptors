@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 This repo includes the VNF descriptors required by OSM:
   - to instantiate data pipelines in a specific MEC triggered by a request from a data consumer
